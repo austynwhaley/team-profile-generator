@@ -21,7 +21,7 @@ Copyright (c) [2020] [Austyn Whaley]
 
 ## Description
 
-### This application creates a HTML file for a company or project that displays a teampage which includes all the teammates and their role along wiht personal information about them
+### This application creates a HTML file for a company or project that displays a teampage which includes all the teammates and their role along with personal information about them
 
 ---
 
@@ -29,7 +29,7 @@ Copyright (c) [2020] [Austyn Whaley]
 
 ### To install this program you will need to run
 
-#### run npm install
+#### npm install, npm inquirer
 
 ---
 
@@ -37,7 +37,7 @@ Copyright (c) [2020] [Austyn Whaley]
 
 ### Usage for this application:
 
-#### To quickly and efficently establish a page of information to display for anyone intrested in their own application
+#### To quickly and efficently establish a page of information to display for anyone intrested in their application or project.
 
 ---
 
