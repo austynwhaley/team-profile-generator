@@ -59,7 +59,7 @@ Copyright (c) [2020] [Austyn Whaley]
 
 ## Questions
 
-Any questions regarding the application can be answered at:
+### Any questions regarding the application can be answered at:
 
 [Link to Github](https://github.com/austynwhaley/)
 ##### Email: austyn_whaley@yahoo.com
