@@ -1,13 +1,16 @@
 # Team Profile Generator  [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
     
     
+
+![Screenshot](./assets/images/teamss.png)
+
 MIT
 Copyright (c) [2020] [Austyn Whaley]
 
 ---
 
 ### Table of Contents
-
+- [Link To Video](https://drive.google.com/file/d/1e3suZyztQHtNaezzh4Kn72KDC85YPsgI/view)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
